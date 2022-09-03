@@ -201,4 +201,4 @@ openpyxl：3.0.3
 #### 七、推广
 
 
-<img src="https://avatars3.githubusercontent.com/u/12622452?s=120&v=4" height="450px" width="400px"/>
+<img src="https://avatars.githubusercontent.com/u/12622452?s=400&u=193f3505e6df5d9a861e8bfc0c43b4abf5c6af2d&v=4" height="450px" width="400px"/>
